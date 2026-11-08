@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Kuryant 👋
 
-<!--
-**kuryantrathod4-debug/kuryantrathod4-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner developer from Gujarat, India.
 
-Here are some ideas to get you started:
+## 🌱 What I'm learning
+- Git and GitHub
+- HTML, CSS, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Build my first projects
+- Contribute to open source
+
+## 📫 Connect with me
+- GitHub: [@kuryantrathod4-debug](https://github.com/kuryantrathod4-debug)
